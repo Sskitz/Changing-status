@@ -19,5 +19,5 @@ async def change_status():
 bot.run("Your Token here", bot=False)
 
 
-#made by stiizzy cat #0001 
+#made by stiizzy cat 
 # not my fault if you get disabled
